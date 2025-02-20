@@ -115,6 +115,14 @@ npm start
 
 ## 🎨 UI Preview
 
+![image](https://github.com/user-attachments/assets/ff83e9c7-5394-4fad-9adb-68fb0024a03f)
+![image](https://github.com/user-attachments/assets/a4632d97-4dcb-4fb3-b34c-45427dfe142c)
+![image](https://github.com/user-attachments/assets/2b901356-654f-490b-9a34-d3f40be92da9)
+![image](https://github.com/user-attachments/assets/c44ff0b5-4845-44ba-9d95-de42b2f0d380)
+![image](https://github.com/user-attachments/assets/780e2027-abbd-46e5-9399-8fcf1fdd8589)
+![image](https://github.com/user-attachments/assets/d59e1279-d1ee-4fde-bdff-fe6e24f489c1)
+![image](https://github.com/user-attachments/assets/8955f521-8be4-4887-908b-ae7681549f03)
+![image](https://github.com/user-attachments/assets/a7d9981e-2a2b-4761-82ad-427aff0ccdb1)
 
 
 ## 🤝 Contributing
@@ -125,12 +133,6 @@ We welcome contributions! Follow these steps:
 2. Create a new branch 🌿
 3. Commit your changes 💾
 4. Open a pull request ✅
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
 
 ---
 
